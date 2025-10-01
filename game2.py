@@ -38,18 +38,18 @@ ZODIAC_DISPLAY_NAMES = {
 
 # Dictionary of zodiac sources
 ZODIAC_SOURCES = {
-    "virgo": "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/green-public-procurement_5dbf73a9.html#indicator-d1e19503-94cb3dc3a1",
-    "libra": "https://www.wto.org/english/news_e/news25_e/gpro_18jun25_e.htm?utm",
-    "scorpio": "https://www.irena.org/Energy-Transition/Innovation/Offshore-Renewables",
-    "sagittarius": "https://www.eib.org/en/press/all/2025-177-cities-across-europe-plan-to-bolster-climate-action-and-social-infrastructure-eib-survey-shows?utm",
-    "capricorn": "https://decarbonization.unido.org/resources/harmonizing-reporting-for-green-public-procurement-and-green-building-programs-using-ecolabels-epds/",
+    "virgo": "https://www.wgea.org/news-events/un-acknowledges-the-role-of-supreme-audit-institutions-in-environmental-sustainability/?utm",
+    "libra": "https://procurementmag.com/news/albania-ai-procurement-minister",
+    "scorpio": "https://www.un.org/en/energy/page/Plan-of-Action-Towards-2025",
+    "sagittarius": "https://www.worldbank.org/en/news/press-release/2025/07/18/world-bank-group-strengthens-procurement-requirements-to-support-job-creation-skills-development?utm_source=chatgpt.com",
+    "capricorn": "https://www.unido.org/news/unido-development-dialogue-advances-global-efforts-productive-resilient-and-sustainable-supply-chains?utm_source=chatgpt.com",
     "aquarius": "https://www.adb.org/news/adb-gsa-sign-deal-open-green-data-center-thailand",
-    "pisces": "https://environment.ec.europa.eu/news/commission-launches-consultation-upcoming-circular-economy-act-2025-08-01_en",
-    "aries": "https://www.worldbank.org/en/news/press-release/2025/08/05/mobilizing-access-to-the-digital-economy-alliance-africa?utm",
-    "taurus": "https://www.fao.org/americas/news/news-detail/programa-alimentacion-escolar/en?utm",
-    "gemini": "https://www.unops.org/news-and-stories/news/unlocking-the-power-of-public-procurement?utm",
-    "cancer": "https://www.who.int/news/item/26-07-2025-who-expands-guidance-on-sexually-transmitted-infections-and-reviews-country-progress-on-policy-implementation",
-    "leo": "https://energy.ec.europa.eu/topics/energy-security/eu-energy-and-raw-materials-platform_en"
+    "pisces": "https://bb-reg-net.org.uk/wp-content/uploads/2025/09/BB-REG-NET-Procurement-Paper.pdf",
+    "aries": "https://circularandfairictpact.com/news/new-manual-available-promoting-due-diligence/",
+    "taurus": "https://www.ucl.ac.uk/bartlett/publications/2025/sep/mission-oriented-approach-school-meals",
+    "gemini": "https://ghgprotocol.org/blog/release-iso-and-ghg-protocol-announce-strategic-partnership-deliver-unified-global-standards",
+    "cancer": "https://www.who.int/news/item/19-08-2025-theories-of-change-can-anchor-our-collective-efforts-and-trigger-real-change-in-people-s-lives",
+    "leo": "https://smartfreightcentre.org/en/about-sfc/news/smart-freight-centre-publishes-guide-to-unlocking-sustainable-aviation-fuel-for-cargo-decarbonization/"
 }
 
 DEFAULT_FOLDER = "."
